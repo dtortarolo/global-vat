@@ -1,6 +1,6 @@
 # 🚀 Project Template
 
-The <span style="color:#3EACAD">template</span> is a standardized, but flexible *project* and *documentation* structure of folders and files for sharing your data science work.
+The <span style="color:#3EACAD">template</span> is a standardized, but flexible *project* and *documentation* structure of folders and files for sharing your data science work!
 
 Inspired by [literate programming](http://literateprogramming.com), maintained by the [Development Data Group](https://www.worldbank.org/en/about/unit/unit-dec/dev) and built as [GitHub template repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template), the <span style="color:#3EACAD">template</span> contains:
 
